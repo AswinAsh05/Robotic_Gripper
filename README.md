@@ -75,7 +75,7 @@ Recommended settings:
 
 ---
 
-## 📸 Drawin & Bill Of Material - BOM
+## 📸 Drawing & Bill Of Material - BOM
 
 ![Gripper View 1](Images/RG_Drawing.png)
 
