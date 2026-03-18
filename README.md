@@ -75,6 +75,12 @@ Recommended settings:
 
 ---
 
+## 📸 Drawin & Bill Of Material - BOM
+
+![Gripper View 1](Images/RG_Drawing.png)
+
+---
+
 ## 🎬 Animation
 
 You can animate the mechanism in Fusion 360 using:
