@@ -51,22 +51,21 @@ The system uses a **gear train + crank + linkage mechanism** to achieve smooth a
 
 ---
 
-## 📦 Components
-
-- Servo Motor (MG996R recommended)  
-- Spur Gears (Pinion + Driven gears)  
-- Linkage Arms  
-- Gripper Jaws  
-- Base Structure  
-- Fasteners (Bolts & Nuts)  
-
----
-
 ## 🖨️ 3D Printing
 
 All parts can be exported as:
 
 **.STL (Binary format)**
+
+Parts to be printed:
+
+- Base x 2
+- Gear lever x 4
+- Gear Servo x 1
+- Connector x 2
+- Claw x 2
+- Pin x 8
+- Servo Motor x 1 (Optional)
 
 Recommended settings:
 
